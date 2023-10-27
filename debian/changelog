@@ -1,3 +1,11 @@
+libmad (0.15.1b-10.1) unstable; urgency=medium
+
+  * Non-maintainer upload.
+  * Bump debhelper to 7. (Closes: #965663)
+  * Update package version in pkg-config file. (Closes: #990838)
+
+ -- Håvard F. Aasen <havard.f.aasen@pfft.no>  Wed, 27 Jul 2022 21:50:28 +0200
+
 libmad (0.15.1b-10) unstable; urgency=medium
 
   * Remove old alioth list as maintainer (Closes: #899582)
